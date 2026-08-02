@@ -2,7 +2,12 @@
 
 A task management app with a beautiful night sky background.
 
-## Features
+## 📸 Preview
+![To-Do List App Preview](preview.png)
+<!-- Add a screenshot of the app to the repo and update the filename above -->
+
+## ✨ Features
+
 - Add new tasks
 - Mark tasks as complete
 - Edit existing tasks
@@ -10,14 +15,24 @@ A task management app with a beautiful night sky background.
 - Progress bar showing tasks completed
 - Motivational quote display
 
-## Tech Stack
+## 🛠️ Tech Stack
+
 HTML | CSS | JavaScript
 
-## What I Learned
+## 📌 What I Learned
+
 - DOM manipulation for dynamic task creation
 - Event listeners for user interactions
 - LocalStorage basics for saving tasks
 - CSS animations and background design
 
-## Built By
+## 🔗 More Projects
+
+Check out my other work: [github.com/nawaz76158-maker](https://github.com/nawaz76158-maker)
+
+## 👤 Built By
+
 Mohammad Nawaz — BCA Student, Ballari, Karnataka
+
+---
+*Built as part of my JavaScript practice.*
