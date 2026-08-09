@@ -28,7 +28,7 @@ HTML | CSS | JavaScript
 
 ## 🔗 More Projects
 
-Check out my other work: [github.com/nawaz76158-maker](https://github.com/nawaz76158-maker)
+Check out my other work: [github.com/mdnawaz-dev](https://github.com/mdnawaz-dev)
 
 ## 👤 Built By
 
